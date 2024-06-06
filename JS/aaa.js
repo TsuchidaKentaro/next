@@ -1,4 +1,4 @@
 // JavaScriptコードの例
 function greet() {
-    alert('Hello, world!');
+    alert('おはよう日本');
 }
